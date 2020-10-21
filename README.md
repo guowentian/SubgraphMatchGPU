@@ -1,9 +1,6 @@
 # Parallel Subgraph Enumeration on GPUs and CPUs
 
-*NOTE: This project is still under development. Do not distribute the code unless getting permission from authors.*
-
-## Overview 
-This project provides a framework for parallel subgraph enumeration utilizing GPUs and multi-core CPUs on a single machine.
+This project provides a framework for parallel subgraph enumeration utilizing GPUs and multi-core CPUs on a single machine [1,2].
 
 ## File organization
 
