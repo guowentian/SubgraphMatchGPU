@@ -1,0 +1,12 @@
+[submodule "lib/moderngpu"]
+	path = lib/moderngpu
+	url = https://github.com/guowentian/moderngpu.git
+[submodule "lib/cnmem"]
+	path = lib/cnmem
+	url = https://github.com/guowentian/cnmem.git
+[submodule "lib/cub"]
+	path = lib/cub
+	url = https://github.com/guowentian/cub.git
+[submodule "lib/cudpp"]
+	path = lib/cudpp
+	url = https://github.com/guowentian/cudpp.git
