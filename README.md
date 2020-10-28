@@ -105,6 +105,6 @@ See [src/cpu/README.md](src/cpu/README.md).
 
 ## References
 
-[1]. GPU-Accelerated Subgraph Enumeration on Partitioned Graphs. SIGMOD 2020. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3318464.3389699?casa_token=6YJkJ4c7b_UAAAAA:JbNWDytqd6kY8hdktAp0FQsXGTFTaWQxAih16Q-lJZd_qzKlE3TV06HOB1brW9ThFqllWR9FqRY) [\[Bib entry\]](https://scholar.googleusercontent.com/scholar.bib?q=info:F6fuEJ0tqPIJ:scholar.google.com/&output=citation&scisdr=CgXYWi02EL6ftXcuxRA:AAGBfm0AAAAAX5Ar3RD-F_5o4Eu-2ejzNDHMIG7taZup&scisig=AAGBfm0AAAAAX5Ar3b8tdj-daz05wgRPHlYYWPf_O-GH&scisf=4&ct=citation&cd=-1&hl=en)
+[1]. GPU-Accelerated Subgraph Enumeration on Partitioned Graphs. SIGMOD 2020. [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3318464.3389699?casa_token=6YJkJ4c7b_UAAAAA:JbNWDytqd6kY8hdktAp0FQsXGTFTaWQxAih16Q-lJZd_qzKlE3TV06HOB1brW9ThFqllWR9FqRY) [\[Bib entry\]](https://scholar.googleusercontent.com/scholar.bib?q=info:F6fuEJ0tqPIJ:scholar.google.com/&output=citation&scisdr=CgXYWi02EL6ftXcuxRA:AAGBfm0AAAAAX5Ar3RD-F_5o4Eu-2ejzNDHMIG7taZup&scisig=AAGBfm0AAAAAX5Ar3b8tdj-daz05wgRPHlYYWPf_O-GH&scisf=4&ct=citation&cd=-1&hl=en) [\[PPT\]](https://drive.google.com/file/d/1tPbdvbMZMaK21U-XfLG0QREgIA97RM84/view?usp=sharing)
 
-[2]. Exploiting Reuse for GPU Subgraph Enumeration. Under submission.
+[2]. Exploiting Reuse for GPU Subgraph Enumeration. Under submission. TKDE 2020.
